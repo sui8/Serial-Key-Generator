@@ -8,7 +8,7 @@ The output result will be output on the Windows console in about 10 seconds.
 ### Usage
 1. Start cmd. (Use "Win + R" to start "Run" and then cmd)  
 2. Use the cd command to move to the directory containing this software.  
-3. ' "Serial Key Generator.exe" ' Type and execute.  
+3. "Serial Key Generator.exe" Type and execute.  
 
 ### Notes
 Secondary distribution, modification, decompilation, etc. are prohibited. In addition, we do not take any damage caused by using this software.  
@@ -22,7 +22,7 @@ Secondary distribution, modification, decompilation, etc. are prohibited. In add
 ### 使い方
 1. コマンドプロンプトを起動します。（Win + R キーで起動し、「cmd」と実行して起動）  
 2. cdコマンドでこのソフトがあるディレクトリに移動する。  
-3. 「"Serial Key Generator.exe"」と入力し実行する。
+3. 「Serial Key Generator.exe」と入力し実行する。
 
 ### 注意事項
 二次配布、改造、逆コンパイルなどを禁じます。また、このソフトウェアを使用したことによる損害を一切負いません。
