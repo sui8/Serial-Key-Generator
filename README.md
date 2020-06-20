@@ -3,7 +3,8 @@
 ### What I can do?
 Create a 25-character serial key.  
 The output result will be output on the Windows console in about 10 seconds.  
-(0,1,5,A,E,I,L,O,S,U,Z are not included to prevent erroneous input)
+(0,1,5,A,E,I,L,O,S,U,Z are not included to prevent erroneous input)  
+Download it [here](https://github.com/suiken-Developer/Serial-Key-Generator/releases).
 
 ### Usage
 1. Start cmd. (Use "Win + R" to start "Run" and then cmd)  
@@ -17,7 +18,8 @@ Secondary distribution, modification, decompilation, etc. are prohibited. In add
 ### 概要
 25文字の知りあるキーを作成します。  
 キーは約10秒後にWindowsのコンソールで出力されます。  
-（0、1、5、A、E、I、L、O、S、U、Z は誤入力防止のため除かれます）
+（0、1、5、A、E、I、L、O、S、U、Z は誤入力防止のため除かれます）  
+ダウンロードは[こちら](https://github.com/suiken-Developer/Serial-Key-Generator/releases)から。
 
 ### 使い方
 1. コマンドプロンプトを起動します。（Win + R キーで起動し、「cmd」と実行して起動）  
