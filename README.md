@@ -16,7 +16,7 @@ Secondary distribution, modification, decompilation, etc. are prohibited. In add
 
 ## (日本語)
 ### 概要
-25文字の知りあるキーを作成します。  
+25文字のシリアルキーを作成します。  
 キーは約10秒後にWindowsのコンソールで出力されます。  
 （0、1、5、A、E、I、L、O、S、U、Z は誤入力防止のため除かれます）  
 ダウンロードは[こちら](https://github.com/suiken-Developer/Serial-Key-Generator/releases)から。
